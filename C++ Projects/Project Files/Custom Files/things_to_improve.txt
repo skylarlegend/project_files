@@ -1,0 +1,9 @@
+Things to-do:
+
+For writing file:
+1) try to link files to output of a generator program (ie PN lab)
+2) GUI
+
+For reading file:
+1) Export to txt file
+2) GUI
